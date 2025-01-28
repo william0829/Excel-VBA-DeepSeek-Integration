@@ -1,5 +1,4 @@
-
-# DeepSeek API Integration for Excel
+# DeepSeek API Integration for Excel 🐋
 
 Use this Excel module to send chat prompts to the DeepSeek API. You can customize the prompt, model, and other parameters right in your worksheet.
 
