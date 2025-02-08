@@ -2,6 +2,10 @@
 
 Use this Excel module to send chat prompts to the DeepSeek API. You can customize the prompt, model, and other parameters right in your worksheet.
 
+
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/ln8oxm9Gvjs/0.jpg)](https://youtu.be/ln8oxm9Gvjs)
+
 ## Features
 - Send chat prompts to DeepSeek with a simple Excel function.
 - Use optional parameters for more control over responses.
