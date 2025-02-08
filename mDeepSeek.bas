@@ -97,7 +97,7 @@ Function DS_Chat(prompt As String, Optional model As String = DEFAULT_MODEL, _
     ' Get API key from named range or use the constant
     Dim apiKey As String
     On Error Resume Next
-    apiKey = ThisWorkbook.Names("DS_API_KEY").RefersToRange.Value
+    apiKey = ActiveWorkbook.Names("DS_API_KEY").RefersToRange.Value
     On Error GoTo ErrorHandler
     If apiKey = "" Then
         apiKey = API_KEY ' Fallback to the constant if named range is missing or empty
