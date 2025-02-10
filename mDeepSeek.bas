@@ -15,7 +15,7 @@ Option Explicit
 ' ========================================================
 
 ' API Configuration
-Private Const API_KEY As String = "YOUR_API_KEY" ' Replace with your DeepSeek API key (https://platform.deepseek.com)
+Private Const API_KEY As String = "YOUR_API_KEY" ' 将其替换为你的 DeepSeek API 密钥
 Private Const API_URL As String = "https://api.deepseek.com/v1/chat/completions" ' DeepSeek API endpoint
 Private Const DEFAULT_MODEL As String = "deepseek-chat" ' Default model to use
 Private Const DEFAULT_TEMPERATURE As Double = 0.7 ' Default temperature for creativity (0 to 2)
