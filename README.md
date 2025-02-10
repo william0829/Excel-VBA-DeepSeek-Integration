@@ -1,3 +1,4 @@
+非原创！
 # DeepSeek API Integration for Excel 🐋
 
 使用此 Excel 模块将聊天提示发送到 DeepSeek API。您可以在工作表中直接自定义提示、模型和其他参数。
@@ -52,11 +53,3 @@
 - 💬 **Discord:** [Join the Community](https://pythonandvba.com/discord)
 - 💼 **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - 📸 **Instagram:** [sven_bosau](https://www.instagram.com/sven_bosau/)
-
-## 💖 Support
-If my tutorials help you, please consider [buying me a coffee](https://pythonandvba.com/coffee-donation).  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
-
-## 📬 Feedback & Collaboration
-If you have ideas, feedback, or want to collaborate, reach out at contact@pythonandvba.com.  
-![Logo](https://www.pythonandvba.com/banner-img)
