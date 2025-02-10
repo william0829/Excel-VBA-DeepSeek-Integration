@@ -1,4 +1,4 @@
-非原创！
+非原创！感谢Sven Bosau
 # DeepSeek API Integration for Excel 🐋
 
 使用此 Excel 模块将聊天提示发送到 DeepSeek API。您可以在工作表中直接自定义提示、模型和其他参数。
