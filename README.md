@@ -25,7 +25,10 @@
    =DS_Chat("你好，DeepSeek！")
    ```
    它将返回来自 API 的响应。
-
+   如果是个人宏的话：`Personal.xbsb!DS_Chat` ：
+   ```excel
+   =Personal.xbsb!DS_Chat("你好，DeepSeek！")
+   ```
 
 ## 可选参数
 使用这些可选参数来微调你的提示：
